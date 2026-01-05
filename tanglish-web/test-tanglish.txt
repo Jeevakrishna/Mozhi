@@ -1,0 +1,4 @@
+Test Tanglish code:
+karuthu "Test Program"
+vaippu x = 10
+kaattu "Value: " + x
