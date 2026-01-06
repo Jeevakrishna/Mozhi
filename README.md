@@ -77,7 +77,7 @@ vaippu name = "Jeevakrishna"
 | String   | "Vanakkam" |
 | Boolean  | unmai, poi (planned) |
 
-⚠️ Note: unmai / poi are in keywords but not wired yet.
+ Note: unmai / poi are in keywords but not wired yet.
 
 ## 8. Print Statement (kaattu)
 ### Syntax
@@ -176,13 +176,13 @@ kaattu (5 + 3) * (10 - 2)
 
 ## 13. What’s Missing (Honest Review)
 You do NOT yet have:
-- ❌ Functions
-- ❌ Return values
-- ❌ Boolean literals wired
-- ❌ Lists / arrays
-- ❌ Proper loops
-- ❌ Scope per block
-- ❌ Error recovery per line
+-  Functions
+-  Return values
+-  Boolean literals wired
+-  Lists / arrays
+-  Proper loops
+-  Scope per block
+-  Error recovery per line
 
 But that’s normal at this stage.
 
