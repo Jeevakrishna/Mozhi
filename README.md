@@ -47,7 +47,7 @@ KEYWORDS = { "karuthu","vaippu","vagai","ennam","ezhuthu","unmai_poi",
 "thethi","kanakku_math","kaattu","unmai","poi" }
 ```  
 
-⚠️ Important observation: Many keywords exist but are not implemented yet (seyal, thiruppu, foru, listu, etc.). That’s okay — languages grow incrementally.
+ Important observation: Many keywords exist but are not implemented yet (seyal, thiruppu, foru, listu, etc.). That’s okay — languages grow incrementally.
 
 ## 5. Comments (karuthu)
 ### Syntax
