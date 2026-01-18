@@ -158,7 +158,7 @@ thirumba condition {
 }
 ```
 
-⚠️ Important limitation: Your loop currently runs only once (hardcoded break). This must be fixed for real looping.
+Important limitation: Your loop currently runs only once (hardcoded break). This must be fixed for real looping.
 
 ### Example (current behavior):
 ```plaintext
