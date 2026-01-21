@@ -232,7 +232,7 @@ kaattu x * 2
 run(source)
 ```
 
-## 17. Website Compilation (Future)
+##7. Website Compilation (Future)
 ### Architecture
 ```plaintext
 Browser
